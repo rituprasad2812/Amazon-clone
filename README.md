@@ -1,5 +1,3 @@
-### Amazon Clone Project
-
 ## Project Description
 This project is a frontend clone of the Amaon website, created purely for learning and practice purposes.
 The goal of this project was to undetstand real-world UI layouts, responsive design, and frontend develeopment concepts using HTML and CSS.
