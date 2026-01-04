@@ -408,7 +408,7 @@ img{
 
 .detailcontainer{
     background-color: #363d4fff;
-    height: 400px;
+    height: 360px;
     padding: 40px;
     display: flex;
     justify-content: center;
@@ -436,4 +436,22 @@ ul{
     line-height: 1.7;
     padding-left: 0;
     color: #d2d2d2ff;
+}
+
+.bottomdisclaimer{
+    height: 20px;
+    padding: 8px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: #1e1e1eff;
+    color: white;
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+}
+
+.bottomdisclaimer p{
+    margin: 0;
+    font-size: 0.8rem;
 }
